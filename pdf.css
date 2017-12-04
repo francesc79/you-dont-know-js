@@ -1,0 +1,16 @@
+body {
+    font-size: 8px;
+}
+
+code {
+    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;    
+    font-size: 7px;
+}
+
+pre { border: none }
+
+pagebreak {
+    display: block;
+    page-break-before: always;
+    break-before: always;
+  }

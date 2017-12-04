@@ -1,0 +1,17 @@
+{
+  "name": "you-dont-know-js",
+  "version": "1.0.0",
+  "description": "This is a series of books diving deep into the core mechanisms of the JavaScript language. The first edition of the series is now complete.",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "duplexer": "^0.1.1",
+    "markdown-pdf": "^8.0.0",
+    "split": "^1.0.1",
+    "through": "^2.3.8"
+  }
+}
