@@ -18,21 +18,21 @@
     }
     
     var mdDocs = [
-      PATH_YOU_DONT_KNOW_JS + "async & performance/README.md", 
-      PATH_YOU_DONT_KNOW_JS + "preface.md", 
-      PATH_YOU_DONT_KNOW_JS + "async & performance/foreword.md", 
-      PATH_YOU_DONT_KNOW_JS + "async & performance/toc.md", 
-      PATH_YOU_DONT_KNOW_JS + "async & performance/ch1.md", 
-      PATH_YOU_DONT_KNOW_JS + "async & performance/ch2.md", 
-      PATH_YOU_DONT_KNOW_JS + "async & performance/ch3.md", 
-      PATH_YOU_DONT_KNOW_JS + "async & performance/ch4.md", 
-      PATH_YOU_DONT_KNOW_JS + "async & performance/ch5.md", 
-      PATH_YOU_DONT_KNOW_JS + "async & performance/ch6.md", 
-      PATH_YOU_DONT_KNOW_JS + "async & performance/apA.md", 
-      PATH_YOU_DONT_KNOW_JS + "async & performance/apB.md", 
-      PATH_YOU_DONT_KNOW_JS + "async & performance/apC.md"
-      ]
-      , bookPath = "./You Don't Know JS - Async & Performance.pdf"
+        PATH_YOU_DONT_KNOW_JS + "async & performance/README.md", 
+        PATH_YOU_DONT_KNOW_JS + "preface.md", 
+        PATH_YOU_DONT_KNOW_JS + "async & performance/foreword.md", 
+        PATH_YOU_DONT_KNOW_JS + "async & performance/toc.md", 
+        PATH_YOU_DONT_KNOW_JS + "async & performance/ch1.md", 
+        PATH_YOU_DONT_KNOW_JS + "async & performance/ch2.md", 
+        PATH_YOU_DONT_KNOW_JS + "async & performance/ch3.md", 
+        PATH_YOU_DONT_KNOW_JS + "async & performance/ch4.md", 
+        PATH_YOU_DONT_KNOW_JS + "async & performance/ch5.md", 
+        PATH_YOU_DONT_KNOW_JS + "async & performance/ch6.md", 
+        PATH_YOU_DONT_KNOW_JS + "async & performance/apA.md", 
+        PATH_YOU_DONT_KNOW_JS + "async & performance/apB.md", 
+        PATH_YOU_DONT_KNOW_JS + "async & performance/apC.md"
+        ]
+        , bookPath = "./You Don't Know JS - Async & Performance.pdf"
     
 
     markdownpdf({preProcessMd, cssPath:'./pdf.css'})
@@ -56,20 +56,20 @@
     }
     
     var mdDocs = [
-      PATH_YOU_DONT_KNOW_JS + "es6 & beyond/README.md", 
-      PATH_YOU_DONT_KNOW_JS + "preface.md", 
-      PATH_YOU_DONT_KNOW_JS + "es6 & beyond/foreword.md", 
-      PATH_YOU_DONT_KNOW_JS + "es6 & beyond/toc.md", 
-      PATH_YOU_DONT_KNOW_JS + "es6 & beyond/ch1.md", 
-      PATH_YOU_DONT_KNOW_JS + "es6 & beyond/ch2.md", 
-      PATH_YOU_DONT_KNOW_JS + "es6 & beyond/ch3.md", 
-      PATH_YOU_DONT_KNOW_JS + "es6 & beyond/ch4.md", 
-      PATH_YOU_DONT_KNOW_JS + "es6 & beyond/ch5.md", 
-      PATH_YOU_DONT_KNOW_JS + "es6 & beyond/ch6.md", 
-      PATH_YOU_DONT_KNOW_JS + "es6 & beyond/ch7.md", 
-      PATH_YOU_DONT_KNOW_JS + "es6 & beyond/ch8.md", 
-      PATH_YOU_DONT_KNOW_JS + "es6 & beyond/apA.md"
-    ]
+        PATH_YOU_DONT_KNOW_JS + "es6 & beyond/README.md", 
+        PATH_YOU_DONT_KNOW_JS + "preface.md", 
+        PATH_YOU_DONT_KNOW_JS + "es6 & beyond/foreword.md", 
+        PATH_YOU_DONT_KNOW_JS + "es6 & beyond/toc.md", 
+        PATH_YOU_DONT_KNOW_JS + "es6 & beyond/ch1.md", 
+        PATH_YOU_DONT_KNOW_JS + "es6 & beyond/ch2.md", 
+        PATH_YOU_DONT_KNOW_JS + "es6 & beyond/ch3.md", 
+        PATH_YOU_DONT_KNOW_JS + "es6 & beyond/ch4.md", 
+        PATH_YOU_DONT_KNOW_JS + "es6 & beyond/ch5.md", 
+        PATH_YOU_DONT_KNOW_JS + "es6 & beyond/ch6.md", 
+        PATH_YOU_DONT_KNOW_JS + "es6 & beyond/ch7.md", 
+        PATH_YOU_DONT_KNOW_JS + "es6 & beyond/ch8.md", 
+        PATH_YOU_DONT_KNOW_JS + "es6 & beyond/apA.md"
+      ]
       , bookPath = "./You Don't Know JS - ES6 & Beyond.pdf"
     
 
@@ -93,19 +93,19 @@
     }
     
     var mdDocs = [
-      PATH_YOU_DONT_KNOW_JS + "scope & closures/README.md", 
-      PATH_YOU_DONT_KNOW_JS + "preface.md", 
-      PATH_YOU_DONT_KNOW_JS + "scope & closures/toc.md", 
-      PATH_YOU_DONT_KNOW_JS + "scope & closures/ch1.md", 
-      PATH_YOU_DONT_KNOW_JS + "scope & closures/ch2.md", 
-      PATH_YOU_DONT_KNOW_JS + "scope & closures/ch3.md", 
-      PATH_YOU_DONT_KNOW_JS + "scope & closures/ch4.md", 
-      PATH_YOU_DONT_KNOW_JS + "scope & closures/ch5.md",  
-      PATH_YOU_DONT_KNOW_JS + "scope & closures/apA.md",
-      PATH_YOU_DONT_KNOW_JS + "scope & closures/apB.md",
-      PATH_YOU_DONT_KNOW_JS + "scope & closures/apC.md",
-      PATH_YOU_DONT_KNOW_JS + "scope & closures/apD.md"
-    ]
+        PATH_YOU_DONT_KNOW_JS + "scope & closures/README.md", 
+        PATH_YOU_DONT_KNOW_JS + "preface.md", 
+        PATH_YOU_DONT_KNOW_JS + "scope & closures/toc.md", 
+        PATH_YOU_DONT_KNOW_JS + "scope & closures/ch1.md", 
+        PATH_YOU_DONT_KNOW_JS + "scope & closures/ch2.md", 
+        PATH_YOU_DONT_KNOW_JS + "scope & closures/ch3.md", 
+        PATH_YOU_DONT_KNOW_JS + "scope & closures/ch4.md", 
+        PATH_YOU_DONT_KNOW_JS + "scope & closures/ch5.md",  
+        PATH_YOU_DONT_KNOW_JS + "scope & closures/apA.md",
+        PATH_YOU_DONT_KNOW_JS + "scope & closures/apB.md",
+        PATH_YOU_DONT_KNOW_JS + "scope & closures/apC.md",
+        PATH_YOU_DONT_KNOW_JS + "scope & closures/apD.md"
+      ]
       , bookPath = "./You Don't Know JS - Scope & Closures.pdf"
     
 
@@ -133,19 +133,19 @@
     }
     
     var mdDocs = [
-      PATH_YOU_DONT_KNOW_JS + "this & object prototypes/README.md", 
-      PATH_YOU_DONT_KNOW_JS + "preface.md", 
-      PATH_YOU_DONT_KNOW_JS + "this & object prototypes/foreword.md", 
-      PATH_YOU_DONT_KNOW_JS + "this & object prototypes/toc.md", 
-      PATH_YOU_DONT_KNOW_JS + "this & object prototypes/ch1.md", 
-      PATH_YOU_DONT_KNOW_JS + "this & object prototypes/ch2.md", 
-      PATH_YOU_DONT_KNOW_JS + "this & object prototypes/ch3.md", 
-      PATH_YOU_DONT_KNOW_JS + "this & object prototypes/ch4.md", 
-      PATH_YOU_DONT_KNOW_JS + "this & object prototypes/ch5.md", 
-      PATH_YOU_DONT_KNOW_JS + "this & object prototypes/ch6.md",   
-      PATH_YOU_DONT_KNOW_JS + "this & object prototypes/apA.md",
-      PATH_YOU_DONT_KNOW_JS + "this & object prototypes/apB.md"
-    ]
+        PATH_YOU_DONT_KNOW_JS + "this & object prototypes/README.md", 
+        PATH_YOU_DONT_KNOW_JS + "preface.md", 
+        PATH_YOU_DONT_KNOW_JS + "this & object prototypes/foreword.md", 
+        PATH_YOU_DONT_KNOW_JS + "this & object prototypes/toc.md", 
+        PATH_YOU_DONT_KNOW_JS + "this & object prototypes/ch1.md", 
+        PATH_YOU_DONT_KNOW_JS + "this & object prototypes/ch2.md", 
+        PATH_YOU_DONT_KNOW_JS + "this & object prototypes/ch3.md", 
+        PATH_YOU_DONT_KNOW_JS + "this & object prototypes/ch4.md", 
+        PATH_YOU_DONT_KNOW_JS + "this & object prototypes/ch5.md", 
+        PATH_YOU_DONT_KNOW_JS + "this & object prototypes/ch6.md",   
+        PATH_YOU_DONT_KNOW_JS + "this & object prototypes/apA.md",
+        PATH_YOU_DONT_KNOW_JS + "this & object prototypes/apB.md"
+      ]
       , bookPath = "./You Don't Know JS - This & Object Prototypes.pdf"
     
 
@@ -168,18 +168,18 @@
     }
     
     var mdDocs = [
-      PATH_YOU_DONT_KNOW_JS + "types & grammar/README.md", 
-      PATH_YOU_DONT_KNOW_JS + "preface.md", 
-      PATH_YOU_DONT_KNOW_JS + "types & grammar/foreword.md", 
-      PATH_YOU_DONT_KNOW_JS + "types & grammar/toc.md", 
-      PATH_YOU_DONT_KNOW_JS + "types & grammar/ch1.md", 
-      PATH_YOU_DONT_KNOW_JS + "types & grammar/ch2.md", 
-      PATH_YOU_DONT_KNOW_JS + "types & grammar/ch3.md", 
-      PATH_YOU_DONT_KNOW_JS + "types & grammar/ch4.md", 
-      PATH_YOU_DONT_KNOW_JS + "types & grammar/ch5.md",   
-      PATH_YOU_DONT_KNOW_JS + "types & grammar/apA.md",
-      PATH_YOU_DONT_KNOW_JS + "types & grammar/apB.md"
-    ]
+        PATH_YOU_DONT_KNOW_JS + "types & grammar/README.md", 
+        PATH_YOU_DONT_KNOW_JS + "preface.md", 
+        PATH_YOU_DONT_KNOW_JS + "types & grammar/foreword.md", 
+        PATH_YOU_DONT_KNOW_JS + "types & grammar/toc.md", 
+        PATH_YOU_DONT_KNOW_JS + "types & grammar/ch1.md", 
+        PATH_YOU_DONT_KNOW_JS + "types & grammar/ch2.md", 
+        PATH_YOU_DONT_KNOW_JS + "types & grammar/ch3.md", 
+        PATH_YOU_DONT_KNOW_JS + "types & grammar/ch4.md", 
+        PATH_YOU_DONT_KNOW_JS + "types & grammar/ch5.md",   
+        PATH_YOU_DONT_KNOW_JS + "types & grammar/apA.md",
+        PATH_YOU_DONT_KNOW_JS + "types & grammar/apB.md"
+      ]
       , bookPath = "./You Don't Know JS - Types & Grammar.pdf"
     
 
@@ -207,16 +207,16 @@
     }
     
     var mdDocs = [
-      PATH_YOU_DONT_KNOW_JS + "up & going/README.md", 
-      PATH_YOU_DONT_KNOW_JS + "preface.md", 
-      PATH_YOU_DONT_KNOW_JS + "up & going/foreword.md", 
-      PATH_YOU_DONT_KNOW_JS + "up & going/toc.md", 
-      PATH_YOU_DONT_KNOW_JS + "up & going/ch1.md", 
-      PATH_YOU_DONT_KNOW_JS + "up & going/ch2.md", 
-      PATH_YOU_DONT_KNOW_JS + "up & going/ch3.md",    
-      PATH_YOU_DONT_KNOW_JS + "up & going/apA.md"
-    ]
-      , bookPath = PATH_YOU_DONT_KNOW_JS + "You Don't Know JS - Up & Going.pdf"
+        PATH_YOU_DONT_KNOW_JS + "up & going/README.md", 
+        PATH_YOU_DONT_KNOW_JS + "preface.md", 
+        PATH_YOU_DONT_KNOW_JS + "up & going/foreword.md", 
+        PATH_YOU_DONT_KNOW_JS + "up & going/toc.md", 
+        PATH_YOU_DONT_KNOW_JS + "up & going/ch1.md", 
+        PATH_YOU_DONT_KNOW_JS + "up & going/ch2.md", 
+        PATH_YOU_DONT_KNOW_JS + "up & going/ch3.md",    
+        PATH_YOU_DONT_KNOW_JS + "up & going/apA.md"
+      ]
+      , bookPath = "./You Don't Know JS - Up & Going.pdf"
     
 
     markdownpdf({preProcessMd, cssPath:'./pdf.css'})
