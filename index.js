@@ -35,7 +35,7 @@
         , bookPath = "./You Don't Know JS - Async & Performance.pdf"
     
 
-    markdownpdf({preProcessMd, cssPath:'./pdf.css'})
+    markdownpdf({preProcessMd, cssPath:'./pdf.css', paperBorder: '1cm'})
     .concat.from(mdDocs)
     .to(bookPath, function () {
       console.log("Created", bookPath)
@@ -73,7 +73,7 @@
       , bookPath = "./You Don't Know JS - ES6 & Beyond.pdf"
     
 
-    markdownpdf({preProcessMd, cssPath:'./pdf.css'})
+    markdownpdf({preProcessMd, cssPath:'./pdf.css', paperBorder: '1cm'})
     .concat.from(mdDocs)
     .to(bookPath, function () {
       console.log("Created", bookPath)
@@ -109,7 +109,7 @@
       , bookPath = "./You Don't Know JS - Scope & Closures.pdf"
     
 
-    markdownpdf({preProcessMd, cssPath:'./pdf.css'})
+    markdownpdf({preProcessMd, cssPath:'./pdf.css', paperBorder: '1cm'})
     .concat.from(mdDocs)
     .to(bookPath, function () {
       console.log("Created", bookPath)
@@ -149,7 +149,7 @@
       , bookPath = "./You Don't Know JS - This & Object Prototypes.pdf"
     
 
-    markdownpdf({preProcessMd, cssPath:'./pdf.css'})
+    markdownpdf({preProcessMd, cssPath:'./pdf.css', paperBorder: '1cm'})
     .concat.from(mdDocs)
     .to(bookPath, function () {
       console.log("Created", bookPath)
@@ -183,7 +183,7 @@
       , bookPath = "./You Don't Know JS - Types & Grammar.pdf"
     
 
-    markdownpdf({preProcessMd, cssPath:'./pdf.css'})
+    markdownpdf({preProcessMd, cssPath:'./pdf.css', paperBorder: '1cm'})
     .concat.from(mdDocs)
     .to(bookPath, function () {
       console.log("Created", bookPath)
@@ -219,7 +219,7 @@
       , bookPath = "./You Don't Know JS - Up & Going.pdf"
     
 
-    markdownpdf({preProcessMd, cssPath:'./pdf.css'})
+    markdownpdf({preProcessMd, cssPath:'./pdf.css', paperBorder: '1cm'})
     .concat.from(mdDocs)
     .to(bookPath, function () {
       console.log("Created", bookPath)
