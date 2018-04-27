@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "duplexer": "^0.1.1",
-    "markdown-pdf": "^8.0.0",
+    "markdown-pdf": "^8.1.1",
     "split": "^1.0.1",
     "through": "^2.3.8"
   }
